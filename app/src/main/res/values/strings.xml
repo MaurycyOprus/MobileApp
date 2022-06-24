@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MobileApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="map">map</string>
+    <string name="login">login</string>
+    <string name="register">register</string>
+    <string name="password">password</string>
+    <string name="send">send</string>
+    <string name="arrival">date of arrival</string>
+    <string name="departure">date of departure</string>
+    <string name="phoneNumber">phone number</string>
+    <string name="email">e-mail</string>
+    <string name="email_">e-mail:</string>
+    <string name="ask">ask</string>
+    <string name="houseNum">how many houses</string>
+    <string name="additionalInfo">additional information</string>
+    <string name="contact">contact information</string>
+    <string name="containerHome">Container Homes</string>
+    <string name="postalCode">61–138</string>
+    <string name="city">Poznań</string>
+    <string name="street">Piotrowo 3</string>
+    <string name="contactEmail">container.homes@put.poznan.pl</string>
+    <string name="contactPhoneNum">phone: +48 123456789</string>
+</resources>
