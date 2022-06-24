@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MobileApp</string>
+    <string name="app_name">Container Homes</string>
     <string name="title_activity_maps">MapsActivity</string>
     <string name="map">map</string>
     <string name="login">login</string>
